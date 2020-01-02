@@ -1,5 +1,22 @@
 # 100-days-of-code
 
+### Day 4: Jan 2, 2020 (Happy New Year!)
+
+**Today's Progress**: 
+
+Python & AWS  
+
+**Thoughts:** 
+
+I re-read the two chapters on lists from the Python Crash Course and put together a simple list exercise.
+
+Now on to a little bit of AWS studying.
+
+
+**Link to work:** 
+
+[04-python-lists](https://github.com/mirella4real/100-days-of-code/blob/master/python/lists/lists.py)
+
 ### Day 3: Jan 1, 2020 (Happy New Year!)
 
 **Today's Progress**: 
