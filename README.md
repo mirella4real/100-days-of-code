@@ -1,6 +1,24 @@
 # 100-days-of-code
 
-### Day 2: Jun 9, 2019 (Sunday)
+### Day 3: Jan 1, 2020 (Happy New Year!)
+
+**Today's Progress**: 
+
+Python & AWS  
+
+**Thoughts:** 
+
+After taking down the Christmas tree, I read on configuring AWS user credentials so as to not explicitly hard code these into code. The AWS CLI and SDKs will automatically check several locations for credentials and configuration.
+
+Next I worked on a simple sorting and comparison exercises in python. Check for permutation.
+
+
+**Link to work:** 
+
+[03-python-check-permutation](https://github.com/mirella4real/100-days-of-code/blob/master/python/checkPermutation/checkPermutation.py)
+
+
+### Day 2: Dec 31, 2019 (Tuesday)
 
 **Today's Progress**: 
 
