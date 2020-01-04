@@ -1,6 +1,22 @@
 # 100-days-of-code
 
-### Day 4: Jan 2, 2020 (Happy New Year!)
+### Day 5: Jan 3, 2020 (Friday)
+
+**Today's Progress**: 
+
+Python  
+
+**Thoughts:** 
+
+I wanted to start a more complex project with Python, so after wrestling with pip3 and pygame installations, I began the Alien Invasion project from Python Crash Course.
+
+
+**Link to work:** 
+
+[05-python-alien_invasion](https://github.com/mirella4real/100-days-of-code/blob/master/python/alien_invasion/alien_invasion.py)
+
+
+### Day 4: Jan 2, 2020 (Thursday)
 
 **Today's Progress**: 
 
