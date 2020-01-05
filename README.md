@@ -1,5 +1,21 @@
 # 100-days-of-code
 
+### Day 6: Jan 4, 2020 (Saturday)
+
+**Today's Progress**: 
+
+Python  
+
+**Thoughts:** 
+
+Continuing the Alien Invasion project from Python Crash Course. Learned how to put settings in a module, which contains a Settings class, then imported the class and settings into the main alien_invasion file.
+
+
+**Link to work:** 
+
+[06-python-alien_invasion](https://github.com/mirella4real/100-days-of-code/blob/master/python/alien_invasion_02/)
+
+
 ### Day 5: Jan 3, 2020 (Friday)
 
 **Today's Progress**: 
