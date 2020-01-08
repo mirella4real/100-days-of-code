@@ -1,5 +1,31 @@
 # 100-days-of-code
 
+### Day 8: Jan 7, 2020 (Saturday)
+
+**Today's Progress**: 
+
+Python  
+
+**Thoughts:** 
+
+Alien Invasion project from Python Crash Course. In theory, I added a ship, but it is not showing up on screen. Tomorrow will debug.
+
+
+**Link to work:** 
+
+[08-python-alien_invasion](https://github.com/mirella4real/100-days-of-code/blob/master/python/alien_invasion_03/)
+
+### Day 7: Jan 5, 2020 (Sunday)
+
+**Today's Progress**: 
+
+AWS  
+
+**Thoughts:** 
+
+No code to commit, but spent a bit of time studying for my AWS Dev cert. Read about networking (Virtual Private Cloud).
+
+
 ### Day 6: Jan 4, 2020 (Saturday)
 
 **Today's Progress**: 
